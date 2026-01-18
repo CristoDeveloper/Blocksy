@@ -1,0 +1,21 @@
+CONDIZIONI DI LICENZA E UTILIZZO - BLOCKSY.IT
+
+Copyright (c) 2026 Blocksy.it - Tutti i diritti riservati.
+
+Il presente software ("Blocksy Plugin") e il relativo codice sorgente sono di proprietà esclusiva di Blocksy.it. L'accesso al codice sorgente è fornito esclusivamente a scopo di trasparenza, verifica di sicurezza e compilazione personale.
+
+RESTRIZIONI:
+
+1. NON è consentita la modifica del codice sorgente per scopi diversi dall'uso personale e privato sul proprio server Minecraft.
+2. NON è consentita la redistribuzione, la vendita o la pubblicazione del software (sia in formato sorgente che compilato .jar) su piattaforme terze, forum, siti web o repository senza l'esplicito consenso scritto di Blocksy.it.
+3. NON è consentito l'utilizzo di parti del codice sorgente per la creazione di plugin derivati o prodotti commerciali.
+
+PERMESSI:
+
+1. È consentita la visualizzazione del codice sorgente per scopi di auditing e verifica della sicurezza.
+2. È consentita la compilazione locale del sorgente (tramite IntelliJ IDEA, Maven o altri strumenti) per generare il file .jar da utilizzare esclusivamente sui propri server.
+3. È consentito segnalare bug o suggerire miglioramenti tramite la creazione di "Issues" sul repository ufficiale.
+
+IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPLICITE O IMPLICITE. IN NESSUN CASO GLI AUTORI SARANNO RESPONSABILI PER RECLAMI, DANNI O ALTRE RESPONSABILITÀ DERIVANTI DALL'USO DEL SOFTWARE.
+
+L'utilizzo del plugin implica l'accettazione integrale di queste condizioni.
